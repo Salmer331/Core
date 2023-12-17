@@ -4,3 +4,4 @@
 Dependencies:
 * https://github.com/hadashiA/VContainer
 * https://github.com/Cysharp/UniTask
+* https://github.com/neuecc/UniRx
